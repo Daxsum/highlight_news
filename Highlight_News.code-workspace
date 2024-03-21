@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "Highlight_News",
+		"path": "."
+	},
+	{
+		"name": "public",
+		"path": "../../../telegram/public"
+	}
+],
+  "settings": {}
+}
